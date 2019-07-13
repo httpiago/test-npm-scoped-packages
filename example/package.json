@@ -5,5 +5,7 @@
   "scripts": {
     "start": "display-hello"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@display-hello/core": "^0.1.5"
+  }
 }

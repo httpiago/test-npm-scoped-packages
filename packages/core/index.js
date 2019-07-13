@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const pkg = require('parent-package-json').parse()
+const pkg = require('parent-package-json')().parse()
 const loadPlugin = require('parent-require')
 
 const ORIGINAL_TEXT = 'Hello world!'

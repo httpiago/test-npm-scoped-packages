@@ -6,6 +6,9 @@
   "bin": {
     "display-hello": "./index.js"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "parent-package-json": "^2.0.1",
     "parent-require": "^1.0.0"
