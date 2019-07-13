@@ -3,11 +3,16 @@
 
 
 "@display-hello/core@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@display-hello/core/-/core-1.0.0.tgz#733451251108e0ae5777fd8937f6d9018cb5ce4a"
-  integrity sha512-4OOjqQkhjR0ZbNV/roLduQ0+lYTY2WTXMh5BVIo+ILg4pUno+47G2nA2RCWV8wXQhtiXRHPHZw7aUD7cNe9d4A==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@display-hello/core/-/core-1.1.0.tgz#8d178f69bdd6f43d084ea90a52fd5b35dc44a7b4"
+  integrity sha512-2yh0Bcx97uFjW9wYICjIADmTicLZjPTZzEoDVGCwqHYQ6CjHYihsxFLEZKrqf65C4E6oGUbHL7okLkB5kBwp6A==
 
-"@display-hello/translate-ptbr@^0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@display-hello/translate-ptbr/-/translate-ptbr-0.1.5.tgz#622a19b1393e0e78ba05de567b5fb85fa9999ee2"
-  integrity sha512-FlMSwWOYoXoK+zDsIrA3BQ6BqJ26+XCKL0q3xVqZfi16WuKQ3U15tISkGo9RJNoxNAulngHx90tIK0bpvoKPrw==
+"@display-hello/lorem-ipsum@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@display-hello/lorem-ipsum/-/lorem-ipsum-1.1.0.tgz#209efd380f21c69e0f9c4e2929930b67852bda64"
+  integrity sha512-UK3v1Ec1912zZ4RZmNAelBfqv/pa9suKTC7H8R3mHO+yUmrXNdwzuxePJF7iXvX/zydldAIIteW9gHkK8n05sA==
+
+"@display-hello/translate-ptbr@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@display-hello/translate-ptbr/-/translate-ptbr-1.1.0.tgz#b719b3606c075d1254ff46b960011ceec5538566"
+  integrity sha512-BwsB6LDi7B/Y+fRDmyj/CEXtd1q64I82FnAJ7X/I7buJKJPJIjXp3ZFzUWEaxGN2ypdvxf/dAJHDIGcINtwH7w==
