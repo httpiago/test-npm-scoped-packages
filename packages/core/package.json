@@ -1,6 +1,6 @@
 {
   "name": "@display-hello/core",
-  "version": "0.1.7",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "bin": {
@@ -9,7 +9,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {},
   "gitHead": "1dad02b6c773d3c9e1cd7ab751f32e3e66fbce48",
   "publishConfig": {
     "access": "public"
