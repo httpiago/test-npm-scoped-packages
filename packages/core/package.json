@@ -10,5 +10,8 @@
     "parent-package-json": "^2.0.1",
     "parent-require": "^1.0.0"
   },
-  "gitHead": "c5cf94f4e412c9c4b8752930c51c34c40a27b113"
+  "gitHead": "e7a2f7aba927392ba0d0bc24473a9e2419ee175f",
+  "publishConfig": {
+    "access": "public"
+  }
 }
