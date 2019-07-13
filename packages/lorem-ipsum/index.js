@@ -1,4 +1,7 @@
-// Add Lorem ipsum to text
+/**
+ * This plugin adds the initial Lorem ipsum excerpt to the end of the text.
+ * @see https://lipsum.com/
+ */
 module.exports = function(text) {
-  return text + ' Lorem ipsum dolor sit amet, consectetur adipiscing elit.';
+  return text.replace('!', '! Lorem ipsum dolor sit amet.');
 }

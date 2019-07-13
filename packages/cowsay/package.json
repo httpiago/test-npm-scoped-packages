@@ -1,0 +1,9 @@
+{
+  "name": "@display-hello/cowsay",
+  "version": "0.1.7",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}

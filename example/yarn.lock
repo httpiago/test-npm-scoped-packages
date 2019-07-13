@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@display-hello/core@^0.1.5":
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/@display-hello/core/-/core-0.1.6.tgz#0ed292fdf87ca50636f69e0a4664e74879354fc2"
-  integrity sha512-lsQBP7tf0qjL8fHfH0nZ479c4/Y8Ahkk3lCASfHB0K++/X4612PLHTRrLa7nHalml1933OLIdySiT6lw9TldPQ==
+"@display-hello/core@^0.1.6":
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/@display-hello/core/-/core-0.1.7.tgz#626c2a1754600cef2ed5808cd6f792c744b5c65b"
+  integrity sha512-jt12mJPOmSXKM/mC/DLQF0sAit73X18PZB78WIkxzVgJU/rSYxvt6TfBAHmdvYmqJUNFfw3ltaXMitJ5UIBiZA==
   dependencies:
     parent-package-json "^2.0.1"
     parent-require "^1.0.0"

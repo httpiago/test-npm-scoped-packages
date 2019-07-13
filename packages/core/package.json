@@ -9,10 +9,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    "parent-package-json": "^2.0.1",
-    "parent-require": "^1.0.0"
-  },
+  "dependencies": {},
   "gitHead": "1dad02b6c773d3c9e1cd7ab751f32e3e66fbce48",
   "publishConfig": {
     "access": "public"

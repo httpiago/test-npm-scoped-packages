@@ -1,6 +1,8 @@
-// Traduzir o text recebido
+/**
+ * This plugin translates the text to Brazilian Portuguese.
+ */
 module.exports = function(text) {
   return text
-    .replace('Hello', 'Olá')
-    .replace('world', 'mundo');
+    .replace(/hello/gi, 'Olá')
+    .replace(/world/gi, 'mundo');
 }
