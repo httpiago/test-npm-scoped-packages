@@ -5,5 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "cowsay": "^1.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
