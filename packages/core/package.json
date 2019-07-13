@@ -9,5 +9,6 @@
   "dependencies": {
     "parent-package-json": "^2.0.1",
     "parent-require": "^1.0.0"
-  }
+  },
+  "gitHead": "c224795ca7a1b698b0c7a93dd2bcad2c07ed7e7e"
 }

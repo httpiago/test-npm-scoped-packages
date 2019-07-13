@@ -2,5 +2,6 @@
   "name": "@display-hello/lorem-ipsum",
   "version": "0.1.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "c224795ca7a1b698b0c7a93dd2bcad2c07ed7e7e"
 }
