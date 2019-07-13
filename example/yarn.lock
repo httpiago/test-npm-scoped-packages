@@ -15,6 +15,11 @@
   resolved "https://registry.yarnpkg.com/@display-hello/lorem-ipsum/-/lorem-ipsum-0.1.5.tgz#e815b4b27c27ba4941201ade179f645407e15cd0"
   integrity sha512-ULWfZOy0Ob4k/p7BS8I8zglZl6X28+LOnoHX/7NQJiM7E7koz9nTOTTAP+XYpRkU9M4HWq2eSP3068bSl2Ni7A==
 
+"@display-hello/translate-ptbr@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@display-hello/translate-ptbr/-/translate-ptbr-0.1.5.tgz#622a19b1393e0e78ba05de567b5fb85fa9999ee2"
+  integrity sha512-FlMSwWOYoXoK+zDsIrA3BQ6BqJ26+XCKL0q3xVqZfi16WuKQ3U15tISkGo9RJNoxNAulngHx90tIK0bpvoKPrw==
+
 parent-package-json@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/parent-package-json/-/parent-package-json-2.0.1.tgz#49b554a9e2dccaed45d7e1a25ea8cec9d7bb6b12"

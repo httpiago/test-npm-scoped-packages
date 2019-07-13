@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 const { resolve } = require('path')
 const { readFileSync: readFile } = require('fs')
-// Get parent package.json
 const parentProjectPath = resolve()
 const parentPkg = JSON.parse( readFile( resolve(parentProjectPath, 'package.json'), 'utf8') )
 
@@ -34,7 +33,7 @@ catch(err) {
 }
 
 function loadPlugin(moduleName) {
-  /** See more https://nodejs.org/api/modules.html#modules_require_resolve_request_options */
+  /** @see https://nodejs.org/api/modules.html#modules_require_resolve_request_options */
   const modulePath = require.resolve(moduleName, { paths: [parentProjectPath] })
   return require(modulePath)
 }

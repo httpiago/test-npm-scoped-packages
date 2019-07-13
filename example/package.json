@@ -6,7 +6,8 @@
     "start": "display-hello"
   },
   "dependencies": {
-    "@display-hello/core": "^0.1.6",
-    "@display-hello/lorem-ipsum": "^0.1.5"
+    "@display-hello/core": "^1.0.0",
+    "@display-hello/lorem-ipsum": "^1.0.0",
+    "@display-hello/translate-ptbr": "^1.0.0"
   }
 }
