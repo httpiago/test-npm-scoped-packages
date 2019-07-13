@@ -1,0 +1,13 @@
+{
+  "name": "@display-hello/core",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "display-hello": "./index.js"
+  },
+  "dependencies": {
+    "parent-package-json": "^2.0.1",
+    "parent-require": "^1.0.0"
+  }
+}

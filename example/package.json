@@ -1,0 +1,9 @@
+{
+  "name": "example",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "display-hello"
+  },
+  "dependencies": {}
+}
