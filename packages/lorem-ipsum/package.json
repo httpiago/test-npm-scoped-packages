@@ -1,6 +1,6 @@
 {
   "name": "@display-hello/translate-ptbr",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "c5cf94f4e412c9c4b8752930c51c34c40a27b113"
