@@ -1,5 +1,5 @@
 /**
- * This plugin translates the text to Brazilian Portuguese.
+ * This plugin translates the text to Brazilian Portuguese
  */
 module.exports = function(text) {
   return text

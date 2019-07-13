@@ -2,30 +2,12 @@
 # yarn lockfile v1
 
 
-"@display-hello/core@^0.1.6":
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/@display-hello/core/-/core-0.1.7.tgz#626c2a1754600cef2ed5808cd6f792c744b5c65b"
-  integrity sha512-jt12mJPOmSXKM/mC/DLQF0sAit73X18PZB78WIkxzVgJU/rSYxvt6TfBAHmdvYmqJUNFfw3ltaXMitJ5UIBiZA==
-  dependencies:
-    parent-package-json "^2.0.1"
-    parent-require "^1.0.0"
-
-"@display-hello/lorem-ipsum@^0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@display-hello/lorem-ipsum/-/lorem-ipsum-0.1.5.tgz#e815b4b27c27ba4941201ade179f645407e15cd0"
-  integrity sha512-ULWfZOy0Ob4k/p7BS8I8zglZl6X28+LOnoHX/7NQJiM7E7koz9nTOTTAP+XYpRkU9M4HWq2eSP3068bSl2Ni7A==
+"@display-hello/core@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@display-hello/core/-/core-1.0.0.tgz#733451251108e0ae5777fd8937f6d9018cb5ce4a"
+  integrity sha512-4OOjqQkhjR0ZbNV/roLduQ0+lYTY2WTXMh5BVIo+ILg4pUno+47G2nA2RCWV8wXQhtiXRHPHZw7aUD7cNe9d4A==
 
 "@display-hello/translate-ptbr@^0.1.5":
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/@display-hello/translate-ptbr/-/translate-ptbr-0.1.5.tgz#622a19b1393e0e78ba05de567b5fb85fa9999ee2"
   integrity sha512-FlMSwWOYoXoK+zDsIrA3BQ6BqJ26+XCKL0q3xVqZfi16WuKQ3U15tISkGo9RJNoxNAulngHx90tIK0bpvoKPrw==
-
-parent-package-json@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/parent-package-json/-/parent-package-json-2.0.1.tgz#49b554a9e2dccaed45d7e1a25ea8cec9d7bb6b12"
-  integrity sha512-dyHr5bP6k8vNT6oP0i4qsfD/rtUiSruJdv+I/BPr7rRtzYRnCu0v1qcM5yHmubobtvGX38SGe1XF2LBo1fN/xg==
-
-parent-require@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/parent-require/-/parent-require-1.0.0.tgz#746a167638083a860b0eef6732cb27ed46c32977"
-  integrity sha1-dGoWdjgIOoYLDu9nMssn7UbDKXc=

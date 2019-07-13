@@ -11,7 +11,7 @@ const plugins = Object.keys( Object.assign({}, parentPkg.dependencies, parentPkg
   .filter(name => name.startsWith(scope) && name !== `${scope}core`)
 
 /**
- * Load plugins.
+ * Load plugins
  *
  * Logic: Each plugin (a normal package of npm) exports by default a function,
  * the code below requests all plugins and calls the function exported by each with the last version of the text
