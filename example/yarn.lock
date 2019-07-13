@@ -3,12 +3,17 @@
 
 
 "@display-hello/core@^0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@display-hello/core/-/core-0.1.5.tgz#6a95aba565ac0d5c0fbcf058abfbc411e44e41c9"
-  integrity sha512-POBXcyTva7M1w8yLNT2/XG7yxdeB7jwrhZtwU+f1Mlb0zVVFqOgyghX4RP6V2i4d5ycdJtaX0Zgmok1KI7uJxw==
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@display-hello/core/-/core-0.1.6.tgz#0ed292fdf87ca50636f69e0a4664e74879354fc2"
+  integrity sha512-lsQBP7tf0qjL8fHfH0nZ479c4/Y8Ahkk3lCASfHB0K++/X4612PLHTRrLa7nHalml1933OLIdySiT6lw9TldPQ==
   dependencies:
     parent-package-json "^2.0.1"
     parent-require "^1.0.0"
+
+"@display-hello/lorem-ipsum@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@display-hello/lorem-ipsum/-/lorem-ipsum-0.1.5.tgz#e815b4b27c27ba4941201ade179f645407e15cd0"
+  integrity sha512-ULWfZOy0Ob4k/p7BS8I8zglZl6X28+LOnoHX/7NQJiM7E7koz9nTOTTAP+XYpRkU9M4HWq2eSP3068bSl2Ni7A==
 
 parent-package-json@^2.0.1:
   version "2.0.1"

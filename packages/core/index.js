@@ -11,6 +11,7 @@ let transformedText = ORIGINAL_TEXT;
 let lastDep;
 try {
   deps.forEach((depName => {
+    console.log('plugin:', depName)
     if (depName.startsWith('@display-hello/')) {
       lastDep = depName
       transformedText = loadPlugin(depName)(transformedText) || transformedText
